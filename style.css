@@ -1,0 +1,177 @@
+body{
+  background-color:#000000;;
+}
+h2{
+  margin: 0px;
+position: absolute;
+width: 159px;
+height: 72px;
+left: 59px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#rent{
+  position: absolute;
+width: 112px;
+height: 53px;
+left: 1280px;
+top: 33px;
+
+background: #262626;
+border-radius: 15px;
+
+
+}
+p{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+margin: 0px;
+color: #FFFFFF;
+}
+
+#Explore{
+  position: absolute;
+  width: 131px;
+  height: 53px;
+  left: 1125px;
+  top: 33px;
+  
+  background: #262626;
+  border-radius: 15px;
+
+}  
+
+#Login{
+
+  position: absolute;
+width: 134px;
+height: 53px;
+left: 958px;
+top: 33px;
+
+background: #262626;
+border-radius: 15px;
+
+}
+.box1{
+  position: absolute;
+width: 1323px;
+height: 588px;
+left: 59px;
+top: 137px;
+background: #262626;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+.ABOUT-US{
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+width: 335px;
+height: 60px;
+left: 45px;
+top: 45px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 10px;
+
+color: #FFFFFF;
+
+}
+.container{
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 156px;
+  gap: 34px;
+  width: 483px;
+  top: 20px;
+}
+#text1{
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+width: 846px;
+height: 53px;
+left: 224px;
+top: 165px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #C4C4C4;
+
+}
+#text2{
+  position: absolute;
+width: 846px;
+height: 53px;
+left: 224px;
+top: 299px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #C4C4C4;
+
+}
+#text3{
+  position: absolute;
+width: 846px;
+height: 53px;
+left: 224px;
+top: 430px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #C4C4C4;
+
+}
+.imageside{
+  position: absolute;
+width: 279px;
+height: 279px;
+left: 950px;
+top: 40px;
+
+background: #FECB03;
+border-radius: 1000px;
+}
+.imageside1{
+  position: absolute;
+width: 260px;
+height: 107px;
+left: 1000px;
+top: 420px;
+
+background: #FECB03;
+border-radius: 50px;
+}
+
+
